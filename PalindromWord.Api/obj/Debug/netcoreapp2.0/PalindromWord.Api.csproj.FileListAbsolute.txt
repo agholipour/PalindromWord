@@ -1,0 +1,13 @@
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Api\bin\Debug\netcoreapp2.0\PalindromWord.Domain.dll
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Api\obj\Debug\netcoreapp2.0\PalindromWord.Api.csprojResolveAssemblyReference.cache
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Api\obj\Debug\netcoreapp2.0\PalindromWord.Api.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Api\obj\Debug\netcoreapp2.0\PalindromWord.Api.AssemblyInfoInputs.cache
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Api\obj\Debug\netcoreapp2.0\PalindromWord.Api.AssemblyInfo.cs
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Api\bin\Debug\netcoreapp2.0\PalindromWord.Api.deps.json
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Api\bin\Debug\netcoreapp2.0\PalindromWord.Api.runtimeconfig.json
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Api\bin\Debug\netcoreapp2.0\PalindromWord.Api.runtimeconfig.dev.json
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Api\bin\Debug\netcoreapp2.0\PalindromWord.Api.dll
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Api\bin\Debug\netcoreapp2.0\PalindromWord.Api.pdb
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Api\bin\Debug\netcoreapp2.0\PalindromWord.Domain.pdb
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Api\obj\Debug\netcoreapp2.0\PalindromWord.Api.dll
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Api\obj\Debug\netcoreapp2.0\PalindromWord.Api.pdb

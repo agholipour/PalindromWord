@@ -1,0 +1,10 @@
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Domain\bin\Debug\netcoreapp2.0\PalindromWord.Domain.deps.json
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Domain\bin\Debug\netcoreapp2.0\PalindromWord.Domain.dll
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Domain\bin\Debug\netcoreapp2.0\PalindromWord.Domain.pdb
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Domain\obj\Debug\netcoreapp2.0\PalindromWord.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Domain\obj\Debug\netcoreapp2.0\PalindromWord.Domain.AssemblyInfoInputs.cache
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Domain\obj\Debug\netcoreapp2.0\PalindromWord.Domain.AssemblyInfo.cs
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Domain\obj\Debug\netcoreapp2.0\PalindromWord.Domain.dll
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Domain\obj\Debug\netcoreapp2.0\PalindromWord.Domain.pdb
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Domain\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ali\source\repos\PalindromWord.Api\PalindromWord.Domain\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Abstractions.xml
