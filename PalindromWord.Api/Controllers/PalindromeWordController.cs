@@ -55,6 +55,11 @@ namespace PalindromWord.Api.Controllers
                 return BadRequest(ModelState);
             }
             var word = Mapper.Map<PalindromeWord>(palindromDtoForCreate);
+            if (!TryValidateModel(word))
+            {
+                return BadRequest(ModelState);
+            }
+            
             this.UnitOfWork.PalindromeWordRepository.Add(word);
             if (!UnitOfWork.Save())
             {

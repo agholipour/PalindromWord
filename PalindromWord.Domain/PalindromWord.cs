@@ -20,9 +20,9 @@ namespace PalindromWord.Domain
 
         public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
         {
-            if (string.IsNullOrEmpty(Word) &&
+            if (!string.IsNullOrEmpty(Word) &&
                   ! IsPalindrome(Word))
-                yield return new ValidationResult($"{Word} is not Palindrome");
+                yield return new ValidationResult($"{Word} is not Palindrome",new[] { this.Word});
         }
         private  bool IsPalindrome(string str)
         {
